@@ -3,3 +3,6 @@
 *.lib
 *.dll
 *.vcproj
+*.pdb
+*.log
+*.html
