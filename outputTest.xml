@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<ROOT>
+    <PLAYSTATE>
+        <Objects>
+            <Object x="0" y="0" width="55" height="55" objectID="TourBlanc1" chessmanType="3" chessmanColor="0" />
+            <Object x="55" y="0" width="55" height="55" objectID="CavalierBlanc1" chessmanType="2" chessmanColor="0" />
+            <Object x="275" y="0" width="55" height="55" objectID="FouBlanc2" chessmanType="1" chessmanColor="0" />
+            <Object x="220" y="275" width="55" height="55" objectID="CavalierBlanc2" chessmanType="2" chessmanColor="0" />
+            <Object x="385" y="0" width="55" height="55" objectID="TourBlanc2" chessmanType="3" chessmanColor="0" />
+            <Object x="0" y="55" width="55" height="55" objectID="PionBlanc1" chessmanType="0" chessmanColor="0" />
+            <Object x="330" y="55" width="55" height="55" objectID="PionBlanc7" chessmanType="0" chessmanColor="0" />
+            <Object x="385" y="55" width="55" height="55" objectID="PionBlanc8" chessmanType="0" chessmanColor="0" />
+            <Object x="0" y="165" width="55" height="55" objectID="PionNoir1" chessmanType="0" chessmanColor="1" />
+            <Object x="55" y="165" width="55" height="55" objectID="PionNoir2" chessmanType="0" chessmanColor="1" />
+            <Object x="55" y="55" width="55" height="55" objectID="PionNoir3" chessmanType="0" chessmanColor="1" />
+            <Object x="220" y="110" width="55" height="55" objectID="PionNoir4" chessmanType="0" chessmanColor="1" />
+            <Object x="220" y="220" width="55" height="55" objectID="PionNoir5" chessmanType="0" chessmanColor="1" />
+            <Object x="275" y="220" width="55" height="55" objectID="PionNoir6" chessmanType="0" chessmanColor="1" />
+            <Object x="385" y="330" width="55" height="55" objectID="PionNoir8" chessmanType="0" chessmanColor="1" />
+            <Object x="0" y="385" width="55" height="55" objectID="TourNoir1" chessmanType="3" chessmanColor="1" />
+            <Object x="55" y="385" width="55" height="55" objectID="CavalierNoir1" chessmanType="2" chessmanColor="1" />
+            <Object x="0" y="275" width="55" height="55" objectID="FouNoir1" chessmanType="1" chessmanColor="1" />
+            <Object x="330" y="110" width="55" height="55" objectID="ReineNoir" chessmanType="4" chessmanColor="1" />
+            <Object x="220" y="165" width="55" height="55" objectID="RoiNoir" chessmanType="5" chessmanColor="1" />
+            <Object x="220" y="0" width="55" height="55" objectID="FouNoir2" chessmanType="1" chessmanColor="1" />
+            <Object x="275" y="275" width="55" height="55" objectID="CavalierNoir2" chessmanType="2" chessmanColor="1" />
+            <Object x="275" y="165" width="55" height="55" objectID="TourNoir2" chessmanType="3" chessmanColor="1" />
+        </Objects>
+    </PLAYSTATE>
+</ROOT>
